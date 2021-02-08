@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuekai Sun | Laura Niss</title>
-    <link>https://laurakn.github.io/hugo_website/author/yuekai-sun/</link>
-      <atom:link href="https://laurakn.github.io/hugo_website/author/yuekai-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lauraniss.com/author/yuekai-sun/</link>
+      <atom:link href="https://lauraniss.com/author/yuekai-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuekai Sun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurakn.github.io/hugo_website/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lauraniss.com/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
       <title>Yuekai Sun</title>
-      <link>https://laurakn.github.io/hugo_website/author/yuekai-sun/</link>
+      <link>https://lauraniss.com/author/yuekai-sun/</link>
     </image>
     
     <item>
       <title>Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes</title>
-      <link>https://laurakn.github.io/hugo_website/publication/bower-debiasing-representations-removing-2018/</link>
+      <link>https://lauraniss.com/publication/bower-debiasing-representations-removing-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://laurakn.github.io/hugo_website/publication/bower-debiasing-representations-removing-2018/</guid>
+      <guid>https://lauraniss.com/publication/bower-debiasing-representations-removing-2018/</guid>
       <description></description>
     </item>
     

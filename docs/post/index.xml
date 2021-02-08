@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Laura Niss</title>
-    <link>https://laurakn.github.io/hugo_website/post/</link>
-      <atom:link href="https://laurakn.github.io/hugo_website/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lauraniss.com/post/</link>
+      <atom:link href="https://lauraniss.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://laurakn.github.io/hugo_website/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lauraniss.com/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://laurakn.github.io/hugo_website/post/</link>
+      <link>https://lauraniss.com/post/</link>
     </image>
     
   </channel>

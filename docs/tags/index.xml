@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Laura Niss</title>
-    <link>https://laurakn.github.io/hugo_website/tags/</link>
-      <atom:link href="https://laurakn.github.io/hugo_website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lauraniss.com/tags/</link>
+      <atom:link href="https://lauraniss.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurakn.github.io/hugo_website/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lauraniss.com/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://laurakn.github.io/hugo_website/tags/</link>
+      <link>https://lauraniss.com/tags/</link>
     </image>
     
   </channel>

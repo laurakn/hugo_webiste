@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Venkatasubramanian | Laura Niss</title>
+    <link>/author/suresh-venkatasubramanian/</link>
+      <atom:link href="/author/suresh-venkatasubramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suresh Venkatasubramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <title>Suresh Venkatasubramanian</title>
+      <link>/author/suresh-venkatasubramanian/</link>
+    </image>
+    
+    <item>
+      <title>Fair Pipelines</title>
+      <link>/publication/bower-fair-pipelines-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bower-fair-pipelines-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

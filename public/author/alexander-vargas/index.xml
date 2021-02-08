@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Vargas | Laura Niss</title>
+    <link>/author/alexander-vargas/</link>
+      <atom:link href="/author/alexander-vargas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Vargas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexander Vargas</title>
+      <link>/author/alexander-vargas/</link>
+    </image>
+    
+    <item>
+      <title>Fair Pipelines</title>
+      <link>/publication/bower-fair-pipelines-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bower-fair-pipelines-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

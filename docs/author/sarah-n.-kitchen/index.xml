@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah N. Kitchen | Laura Niss</title>
+    <link>https://laurakn.github.io/hugo_website/author/sarah-n.-kitchen/</link>
+      <atom:link href="https://laurakn.github.io/hugo_website/author/sarah-n.-kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah N. Kitchen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurakn.github.io/hugo_website/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <title>Sarah N. Kitchen</title>
+      <link>https://laurakn.github.io/hugo_website/author/sarah-n.-kitchen/</link>
+    </image>
+    
+    <item>
+      <title>Fair Pipelines</title>
+      <link>https://laurakn.github.io/hugo_website/publication/bower-fair-pipelines-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://laurakn.github.io/hugo_website/publication/bower-fair-pipelines-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Laura Niss</title>
+    <link>https://laurakn.github.io/hugo_website/publication/</link>
+      <atom:link href="https://laurakn.github.io/hugo_website/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurakn.github.io/hugo_website/images/icon_hu209039f397f517d7bbd03bccdc492faf_20702_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://laurakn.github.io/hugo_website/publication/</link>
+    </image>
+    
+    <item>
+      <title>What You See May Not Be What You Get: UCB Bandit Algorithms Robust to epsilon-Contamination</title>
+      <link>https://laurakn.github.io/hugo_website/publication/niss-what-you-see-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurakn.github.io/hugo_website/publication/niss-what-you-see-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes</title>
+      <link>https://laurakn.github.io/hugo_website/publication/bower-debiasing-representations-removing-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://laurakn.github.io/hugo_website/publication/bower-debiasing-representations-removing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Pipelines</title>
+      <link>https://laurakn.github.io/hugo_website/publication/bower-fair-pipelines-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://laurakn.github.io/hugo_website/publication/bower-fair-pipelines-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

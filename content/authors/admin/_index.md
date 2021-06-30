@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: PhD Statistics
-    institution: University of Michigan
-    year: 2021 (expected)
   - course: MA Statistics
     institution: University of Michigan
     year: 2018
@@ -73,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Laura Niss is a fifth year graduate student research assistant in statistics at the University of Michigan. Her research involves applications of bandit algorithms in education and fairness considerations in bandit algorithms. This work is done in collaboration with her advisor Ambuj Tewari.
+Laura Niss is a graduate student research assistant in statistics at the University of Michigan. Her research interests include machine learning applications in education, fair algorithms, and learning about new topics not discussed during her education. 

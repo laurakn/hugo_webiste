@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include bandit algorithms, fairness in ML, ML applications in education, and the intersection of these areas.
 
 interests:
-- Bandit learning
 - Fairness in ML
 - ML applications in education
+- Data science to impact policy decisions
 
 education:
   courses:
